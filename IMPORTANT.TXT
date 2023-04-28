@@ -1,0 +1,7 @@
+mongodb+srv://santiago19t:9.2mp-SA@calendardb.tslxga5.mongodb.net
+
+para conectar a mongodb
+
+usuario: santiago19t
+
+contraseña: 9.2mp-SA
